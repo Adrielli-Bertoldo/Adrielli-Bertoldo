@@ -1,57 +1,49 @@
-<h1 align="left">Olá, eu sou Adrielli Bertoldo! 😽</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<p align="left">🎯 Desenvolvedora Full Stack Júnior <br><br>
-Sou uma profissional em transição para a área de tecnologia, com mais de 14 anos de experiência nos setores administrativo e comercial, com sólida atuação na indústria automobilístico. Graduada em Gestão de Recursos Humanos pela Universidade Anhembi Morumbi, estou na etapa final do bootcamp intensivo de Desenvolvedora Full Stack pela Generation Brasil (3 meses) e, atualmente, curso o programa técnico da ONE - Oracle Next Education, em parceria com a Alura (12 meses), focado em desenvolvimento de software, metodologias ágeis e inteligência artificial.<br><br>🛠️ Hard Skills<br>Back-end: Node.js, NestJS, JavaScript, Java, Spring Framework<br>Front-end: HTML5, CSS3, Tailwind, ReactJS, TypeScript<br>Banco de Dados: SQL, MySQL, SQLite, DBeaver, queries avançadas, triggers, stored procedures<br>Inteligência Artificial: Engenharia de Prompts, uso de IA generativa integrada ao Back-End<br>Metodologias e Padrões: SCRUM, Kanban, Programação Orientada a Objetos (POO)<br>Cloud & DevOps: Oracle Cloud Infrastructure (OCI), redes, infraestrutura como código<br>Business Intelligence: Power BI, análise e storytelling de dados<br>Ferramentas: Salesforce CRM, NBS, Insomnia, Pacote Office (avançado)<br><br>💡 Soft Skills<br>Senso de urgência em atividades críticas.<br>Pensamento estratégico com foco no cliente.<br>Perfil analítico, colaborativo e orientado a resultados.<br>Comunicação clara, adaptabilidade e proatividade.<br>Comprometida com o aprendizado contínuo.<br><br>📊 Experiência Complementar.<br>Ao longo da carreira, atuei com:<br>40% em rotinas financeiras<br>25% em atendimento ao cliente<br>15% em análise de dados<br>20% em relacionamento B2B e B2C com seguradoras e grandes marcas como BMW, Toyota, Hyundai, Jaguar, BYD e Land Rover.<br><br>Integro essa vivência corporativa ao meu aprendizado técnico, com foco em construir soluções digitais eficientes, que unam tecnologia, pessoas e gestão estratégica.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<h2 align="left">🚀 Objetivo</h2>
-
-###
-
-<p align="left">Atuar como Desenvolvedora Full Stack Júnior, tanto em front-end quanto back-end, contribuindo com projetos inovadores e equipes ágeis. Busco ambientes que valorizem boas práticas de código, colaboração e visão analítica, onde eu possa crescer tecnicamente e gerar valor real.<br><br>✨ Resolvendo bugs e criando soluções desde que descobri a área tech… meu lema é: código, café e...BAZINGA! ⚛️</p>
-
-###
-
-<h2 align="left">Linguagens e frameworks principais tecnologias.</h2>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
