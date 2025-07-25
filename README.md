@@ -12,6 +12,8 @@
 
 <p align="left">Busco oportunidade como Desenvolvedora Full Stack Júnior, atuando em front-end e back-end, especialmente em ambientes que integrem tecnologia, CRM e gestão de pessoas. Meu foco é aplicar boas práticas de código, pensamento analítico e entregar soluções eficientes, sempre buscando aprimoramento e geração de valor.<br><br>Resolvendo bugs e criando soluções desde que descobri a área tech… meu lema é: código, café e...BAZINGA! ⚛️</p>
 
+📩bertoldoadrielli@gmail.com
+
 ###
 
 <h2 align="left">Linguagens e frameworks cotidianas.</h2>
