@@ -1,17 +1,37 @@
-###
-<h1 align="left">Olá, eu sou Adrielli Bertoldo! 😽</h1>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
 ###
 
-<p align="left">🎯 Desenvolvedora Full Stack Júnior  <br><br>Sou uma profissional em transição de carreira para a área de tecnologia, com mais de 14 anos de experiência nos setores administrativo e comercial, com sólida atuação na indústria automobilístico. Graduada em Gestão de Recursos Humanos pela Universidade Anhembi Morumbi, estou na etapa final do bootcamp intensivo de Desenvolvedora Full Stack pela Generation Brasil (3 meses) e, atualmente, curso o programa técnico da ONE - Oracle Next Education, em parceria com a Alura (12 meses), focado em desenvolvimento de software, metodologias ágeis e inteligência artificial.<br><br>✨ Stack Tecnológica ✨<br><br>🛠️ Hard Skills<br>Back-end: Node.js, NestJS, TypeScript, <br>Front-end: HTML5, CSS3, TailwindCSS, ReactJS, JavaScript,<br>Banco de Dados: SQL, MySQL, SQLite, DBeaver, queries avançadas, triggers, stored procedures,<br>Inteligência Artificial: Engenharia de Prompts, uso de IA generativa integrada ao back-end,<br>Metodologias ágeis e POO: SCRUM, Kanban, Programação Orientada a Objetos,<br>Cloud & DevOps: Oracle Cloud Infrastructure (OCI), redes, infraestrutura como código,<br>Business Intelligence: Power BI, análise e storytelling de dados,<br>Ferramentas: NBS (sistema de gestão), Salesforce CRM (Customer Relationship Management), Insomnia (testes de API) e Pacote Office (intermediário).<br><br>🧠 Soft Skills<br>Senso de urgência em atividades críticas.<br>Pensamento estratégico focado no cliente.<br>Perfil analítico, colaborativo e orientado a resultados.<br>Comunicação clara, adaptabilidade e proatividade.<br>Comprometida com aprendizado contínuo.<br><br>📊 Experiência Complementar<br>40% rotinas financeiras.<br>25% atendimento ao cliente.<br>15% análise de dados.<br>20% relacionamento B2B e B2C com seguradoras e grandes marcas (BMW, Toyota, Hyundai, Jaguar, BYD, Land Rover).<br><br>Integro minha trajetória no mundo corporativo à formação técnica em desenvolvimento de software, com o propósito de construir soluções digitais que conectem inovação, colaboração humana e visão estratégica.<br><br>🌿 Sobre mim<br>Apaixonada por trilhas e caminhadas ao ar livre 🥾, encontro nesse hobby foco, disciplina e equilíbrio emocional, qualidades que levo também para minha jornada profissional, fortalecendo minha resiliência, organização e clareza no trabalho em equipe e na resolução de problemas.</p>
+<h1 align="center">Olá, eu sou Adrielli Bertoldo! 😽</h1>
 
 ###
 
-<h2 align="left">🚀 Objetivo</h2>
+<h3 align="left">Mas pode me chamar de Dri.</h3>
 
 ###
 
-<p align="left">Busco oportunidade como Desenvolvedora Full Stack Júnior, atuando tanto no front-end quanto no back-end, especialmente em ambientes que integrem tecnologia, CRM e gestão de pessoas. Meu foco é aplicar boas práticas de código, pensamento analítico e entregar soluções eficientes, sempre buscando aprimoramento e geração de valor.<br><br>☕ Resolvendo bugs e criando soluções desde que descobri a área tech… meu lema é: código, café e... BAZINGA! ⚛️</p>
+<p align="left">🎯 Desenvolvedora Full Stack Júnior<br>Em transição de carreira com mais de 14 anos de experiência nos setores administrativo e comercial, especialmente na indústria automobilística.<br><br>🎓 Graduada em Gestão de RH pela Universidade Anhembi Morumbi.<br> 👩🏻‍💻 Em formação técnica contínua, desenvolvimento de software, metodologias ágeis e inteligência artificial:<br><br>Bootcamp Full Stack pela Generation Brasil.<br>Oracle Next Education (ONE) + Alura.<br><br>✨ Stack Tecnológica ✨<br><br>🛠️ Hard Skills<br>Back-end: Node.js, NestJS, TypeScript,<br>Front-end: HTML5, CSS3, TailwindCSS, ReactJS, JavaScript,<br>Banco de Dados: SQL, MySQL, SQLite, DBeaver, queries avançadas, triggers, stored procedures,<br>Inteligência Artificial: Engenharia de Prompts, uso de IA generativa integrada ao back-end,<br>Metodologias ágeis e POO: SCRUM, Kanban, Programação Orientada a Objetos,<br>Cloud & DevOps: Oracle Cloud Infrastructure (OCI), redes, infraestrutura como código,<br>Business Intelligence: Power BI, análise e storytelling de dados,<br>Ferramentas: NBS (sistema de gestão), Salesforce CRM (Customer Relationship Management), Insomnia (testes de API) e Pacote Office (intermediário).<br><br>🧠 Soft Skills<br>Senso de urgência em atividades críticas.<br>Pensamento estratégico focado no cliente.<br>Perfil analítico, colaborativo e orientado a resultados.<br>Comunicação clara, adaptabilidade e proatividade.<br>Comprometida com aprendizado contínuo.<br><br>📊 Experiência Complementar<br>40% rotinas financeiras.<br>25% atendimento ao cliente.<br>15% análise de dados.<br>20% relacionamento B2B e B2C com seguradoras e grandes marcas (BMW, Toyota, Hyundai, Jaguar, BYD, Land Rover).<br><br>🌿 Sobre mim<br>Apaixonada por trilhas e caminhadas 🥾 foco, equilíbrio e disciplina me acompanham dentro e fora do código.<br><br>Resolvendo bugs e criando soluções desde que descobri a área tech… meu lema é: código, café e... BAZINGA! ⚛️<br><br>📌 Objetivo Profissional<br>Busco oportunidade como Desenvolvedora Full Stack Júnior, atuando tanto no front-end quanto no back-end, especialmente em ambientes que integrem tecnologia, CRM e gestão de pessoas. Meu foco é aplicar boas práticas de código, pensamento analítico e entregar soluções eficientes, sempre buscando aprimoramento e geração de valor.</p>
+
+###
+
+<h3 align="left">Linguagens e frameworks cotidianas.</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 align="left">Gráficos para dar um panorama do que está acontecendo por aqui:</h3>
+
+###
 
 ###
 
