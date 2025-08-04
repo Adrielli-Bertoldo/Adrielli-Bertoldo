@@ -16,23 +16,6 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">Linguagens e frameworks cotidianas.</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<h3 align="left">Gráficos para dar um panorama do que está acontecendo por aqui:</h3>
-
-###
-###
-
 <h2 align="left">Linguagens e frameworks cotidianas.</h2>
 
 ###
