@@ -12,9 +12,11 @@
   </a>
 </div>
 
-<h2 align="left">Linguagens e frameworks cotidianas.</h2>
+<h2 align="left">🚀 Objetivo</h2>
 
-###
+
+<p align="left">Busco oportunidade como Desenvolvedora Full Stack Júnior, atuando tanto no front-end quanto no back-end, especialmente em ambientes que integrem tecnologia, CRM e gestão de pessoas. Meu foco é aplicar boas práticas de código, pensamento analítico e entregar soluções eficientes, sempre buscando aprimoramento e geração de valor.<br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
