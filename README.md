@@ -12,7 +12,7 @@
 <p >Busco unir minha bagagem no mundo corporativo à minha nova jornada em tecnologia para criar produtos inteligentes, escaláveis e centrados no usuário.
 Sempre aberta a desafios que me permitam aprender, evoluir e contribuir.
 
-📬 Vamos nos conectar?<br><br>bertoldoadrielli@gmail.com<br>
+📬 Vamos nos conectar?<br>bertoldoadrielli@gmail.com<br>
 
 <div align="center">
   <br><a href="https://www.linkedin.com/in/adrielli-bertoldo/" target="_blank"><br>
