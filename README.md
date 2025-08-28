@@ -4,7 +4,7 @@
 
 <h3 align="center">🎯 Desenvolvedora Full Stack Júnior</h3><br>Apaixonada por tecnologia e em plena transição de carreira, trago comigo 13 anos de experiência nos setores administrativo e comercial, com forte atuação na indústria automobilística.</h3><br>Hoje, meu foco está em unir negócios + inovação tecnológica, desenvolvendo soluções que impactem pessoas e empresas de forma real.<br>
 
-<br><p align="left">🎓 Graduada em Gestão de RH pela Universidade Anhembi Morumbi.<br>👩🏻‍💻 Em formação técnica contínua, desenvolvimento de software, metodologias ágeis e inteligência artificial:<br>📚 Programas de destaque: Generation Brasil (Full Stack) e Oracle Next Education (ONE) + Alura<br><br>✨ Stack Tecnológica ✨<br><br>🛠️ Hard Skills<br>Back-end: Node.js | NestJS | TypeScrip<br>Front-end: HTML5 | CSS3 | TailwindCSS | ReactJS | JavaScript<br>Banco de Dados: SQL | MySQL | SQLite | DBeaver (queries avançadas, triggers, procedures)<br>Inteligência Artificial: Engenharia de Prompts | Integração de IA generativa<br>Cloud & DevOps: Oracle Cloud Infrastructure (OCI) | Infraestrutura como código<br>Business Intelligence: Power BI (análise + storytelling de dados)<br>Ferramentas de apoio: Salesforce CRM | Insomnia | NBS | Pacote Office<br><br>🧠 Soft Skills<br>Senso de urgência em atividades críticas.<br>Pensamento estratégico focado no cliente.<br>Perfil analítico, colaborativo e orientado a resultados.<br>Comunicação clara, adaptabilidade e proatividade.<br>Comprometida com aprendizado contínuo.<br><br>📊 Minha experiência em números:<br>40% Rotinas financeiras.<br>25% Atendimento ao cliente.<br>15% Análise de dados.<br>Relacionamento B2B & B2C com grandes marcas (BMW, Toyota, Hyundai, Jaguar, BYD, Land Rover).<br><br>🌿 Sobre mim<br>Apaixonada por trilhas e caminhadas 🥾foco, equilíbrio e disciplina me acompanham dentro e fora do código. <br>Resolvendo bugs e criando soluções desde que descobri a área tech… meu lema é: deploys com fé, bazinga e café! ⚛️</p>
+<br><p align="left">🎓 Graduada em Gestão de RH pela Universidade Anhembi Morumbi.<br>👩🏻‍💻 Em formação técnica contínua, desenvolvimento de software, metodologias ágeis e inteligência artificial:<br>📚 Programas de destaque: Generation Brasil (Full Stack) e Oracle Next Education (ONE) + Alura<br><br>✨ Stack Tecnológica ✨<br><br>🛠️ Hard Skills<br>Back-end: Node.js | NestJS | TypeScrip<br>Front-end: HTML5 | CSS3 | TailwindCSS | ReactJS | JavaScript<br>Banco de Dados: SQL | MySQL | SQLite | DBeaver (queries avançadas, triggers, procedures)<br>Inteligência Artificial: Engenharia de Prompts | Integração de IA generativa<br>Cloud & DevOps: Oracle Cloud Infrastructure (OCI) | Infraestrutura como código<br>Business Intelligence: Power BI (análise + storytelling de dados)<br>Ferramentas de apoio: Salesforce CRM | Insomnia | NBS | Pacote Office<br><br>🧠 Soft Skills<br>Senso de urgência em atividades críticas.<br>Pensamento estratégico focado no cliente.<br>Perfil analítico, colaborativo e orientado a resultados.<br>Comunicação clara, adaptabilidade e proatividade.<br>Comprometida com aprendizado contínuo.<br><br>📊 Minha experiência em números:<br>40% Rotinas financeiras.<br>25% Atendimento ao cliente.<br>15% Análise de dados.<br>Relacionamento B2B & B2C com grandes marcas (BMW, Toyota, Hyundai, Jaguar, BYD, Land Rover).<br><br>🌿 Sobre mim<br>Apaixonada por trilhas e caminhadas 🥾foco, equilíbrio e disciplina me acompanham dentro e fora do código. <br>Na área tech descobri que cada bug é só uma chance disfarçada de criar algo melhor. Deploys? Sempre com fé, café e bazinga! ⚛️</p>
 
 <h2>🚀 Objetivo</h2>
 
@@ -14,11 +14,11 @@ Sempre aberta a desafios que me permitam aprender, evoluir e contribuir.
 
 📬 Vamos nos conectar?<br>bertoldoadrielli@gmail.com<br>
 
-<div align="center">
-  <br><a href="https://www.linkedin.com/in/adrielli-bertoldo/" target="_blank"><br>
+<br><div align="center">
+    <a href="https://www.linkedin.com/in/adrielli-bertoldo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
+</div><br>
 
 
 <div align="left">
