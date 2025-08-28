@@ -12,7 +12,7 @@
 <p >Busco unir minha bagagem no mundo corporativo à minha nova jornada em tecnologia para criar produtos inteligentes, escaláveis e centrados no usuário.
 Sempre aberta a desafios que me permitam aprender, evoluir e contribuir.
 
-📬 Vamos nos conectar?<br>bertoldoadrielli@gmail.com<br>
+📬 Vamos nos conectar?<br>bertoldoadrielli@gmail.com<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
